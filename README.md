@@ -13,14 +13,14 @@ This is an example how to get a local copy up and running follow these simple ex
 
 Install packages
 
-    ```npm install```
+    npm install
 
 **run**
 
-    ```npm run dev```
+    npm run dev
 
 next open [localhost3000](http://localhost:3000).
 
 ## Warning 
-ใครไม่ทำชื่อ<span style="color:red">some **<strong>แดง</strong>** text</span>
+ใครไม่ทำชื่อ<span style="color:red">**<strong>แดง</strong>** </span>
 
