@@ -2,9 +2,9 @@
 project webApp.
 
 ## Build with 
-    * React - freamwork for WebApp
-    * Next.js - freamwork with node.js for web server
-    * Material-UI - freamwork for UI
+* React - freamwork for WebApp
+* Next.js - freamwork with node.js for web server
+* Material-UI - freamwork for UI
 ## Getting Started
 
 This is an example how to get a local copy up and running follow these simple example steps.
