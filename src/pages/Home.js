@@ -22,7 +22,7 @@ export default function Home(props) {
             <div className={classes.brand}>
               <h1 className={classes.title}>HOME PAGE</h1>
               <h3 className={classes.subtitle}>
-                Thak you.
+                Thank you.
               </h3>
             </div>
           </GridItem>
